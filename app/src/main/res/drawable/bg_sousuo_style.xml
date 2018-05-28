@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- button样式-圆角蓝底 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/bg_sousuo"/>
+    <corners android:radius="25dp"/>
+
+
+</shape>

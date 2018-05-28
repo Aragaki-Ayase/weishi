@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#160F2E</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="line">#30275c</color>
+    <color name="bg_btn">#580E41</color>
+    <color name="bg_sousuo">#322C48</color>
+    <color name="bg_home">#110D28</color>
+    <color name="text">#9894A6</color>
+    <color name="blue2">#100e26</color>
+    <color name="text2">#7c788d</color>
+
+    <color name="red">#ffF44336</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#2C50A6</color>
+    <color name="black">#000000</color>
+</resources>
